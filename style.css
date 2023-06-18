@@ -149,7 +149,7 @@ span{
 
 }
 
-@media(min-width: 415px){
+@media(min-width: 550px){
 
     .containerPage{
         flex-direction: row;
