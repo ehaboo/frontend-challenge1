@@ -156,14 +156,14 @@ span{
         justify-content: center;
         align-items: center;
         margin: 100px auto;
-        width: 800px;
+        width: 700px;
     }
 
     .containerHeader {
         border-radius: 25px;
         padding: 20px 40px;
         width: 350px;
-        height: 420px;
+        height: 450px;
     }
 
     .containerMain{
@@ -173,7 +173,7 @@ span{
         gap: 10px;
         padding: 20px;
         width: 350px;
-        height: 420px;
+        height: 450px;
         margin-left: -15px;
     }
     
