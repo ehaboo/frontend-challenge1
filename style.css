@@ -157,6 +157,8 @@ span{
         align-items: center;
         margin: 100px auto;
         width: 700px;
+        box-shadow: 5px 5px 30px hsl(241, 100%, 89%);
+        border-radius: 25px 0 25px 25px;
     }
 
     .containerHeader {
@@ -167,19 +169,19 @@ span{
     }
 
     .containerMain{
-        border-bottom-right-radius: 25px;
-        border-top-right-radius: 25px;
-        box-shadow: 5px 5px 30px hsl(241, 100%, 89%);
         gap: 10px;
         padding: 20px;
         width: 350px;
         height: 450px;
-        margin-left: -15px;
+        margin-left: -10px;
     }
+    .great{
+        margin-top: 40px;
+        margin-bottom: 0;
     
+    }
     .paragraph{
-        padding: 20px auto 20px;
-        margin-top: 20px;
+        padding: 20px;
     }
     
     .reaction, .memory, .verbal, .visual{
