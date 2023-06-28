@@ -130,11 +130,15 @@ div{
 button{
     width: 90%;
     height: 50px;   
+    border: unset;
     border-radius: 30px !important;
     background-color: hsl(224, 30%, 27%);
     color: white;
     font-weight: 800;
     font-size: large;
+}
+button:hover{
+    background: linear-gradient(to bottom, hsla(252, 100%, 67%, 0.9), hsla(241, 81%, 54%, 0.9));
 }
 svg{
     margin-right: 10px ;
